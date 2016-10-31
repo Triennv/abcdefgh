@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://duanrichmondcity.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-jUky9VMLA9E/V_3MoRT4XMI/AAAAAAAAAOs/7UbZZ53MZcUy3xDRgtq69w1gcP--leGXACJoC/w530-h398-p-rw/HINH%2B6.jpg width='500px'/><br/>TƯ VẤN BÁN HÀNG</a>. CĂN HỘ RICHMOND CITY. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://duanrichmondcity.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-jUky9VMLA9E/V_3MoRT4XMI/AAAAAAAAAOs/7UbZZ53MZcUy3xDRgtq69w1gcP--leGXACJoC/w530-h398-p-rw/HINH%2B6.jpg width='500px'/><br/>TƯ VẤN BÁN HÀNG CĂN HỘ RICHMOND CITY</a> <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
